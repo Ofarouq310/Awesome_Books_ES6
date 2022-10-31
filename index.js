@@ -15,5 +15,3 @@ const populateDate = () => {
   date.innerHTML = DateTime.now().toLocaleString(DateTime.DATETIME_MED_WITH_SECONDS);
 };
 setInterval(populateDate, 1000);
-
-
