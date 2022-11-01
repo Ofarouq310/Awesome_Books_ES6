@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Awesome Books
+# Awesome Books (ES6)
 
 > A simple UI project built to create a booklist using the syntax of ECMAScript 6(ES6).
 
