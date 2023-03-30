@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="https://github.com/Ofarouq310/Ofarouq310/blob/main/logo1.png" alt="logo" width="250"  height="auto" />
+  <img src="https://github.com/Ofarouq310/Ofarouq310/blob/main/logo1.png" alt="logo" width="225"  height="auto" />
   <br/>
 
 </div>
