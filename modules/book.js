@@ -2,7 +2,7 @@
 
 // Declaring variables
 const listContainer = document.querySelector('.list_container');
-const h4 = document.querySelector('h4');
+const subHeading = document.querySelector('#sub--heading');
 
 // Declaring the class
 export default class Book {
@@ -57,7 +57,7 @@ export default class Book {
           btn.parentElement.remove();
           if (listContainer.innerHTML === '') {
             listContainer.style.border = 'none';
-            h4.innerHTML = '"No books to display"';
+            subHeading.innerHTML = '"No books to display"';
           }
         });
       });
